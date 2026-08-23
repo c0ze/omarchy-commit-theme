@@ -1,0 +1,36 @@
+# Commit!!! — Late Night
+# The game's shipped palette, verbatim from commit/game/theme/palette.gd:
+# phosphor green on a cold CRT ground, Snazzy ANSI accents.
+# "Late-night commits produce extra output but raise stress." — DESIGN.md §3
+
+mode = "dark"
+
+accent = "#5AF78E"
+selection = "#1B2635"
+muted = "#33486A"
+
+background = "#0B0F14"
+dark_background = "#070A0E"
+darker_background = "#030507"
+lighter_background = "#121A24"
+
+foreground = "#7CFFB2"
+dark_foreground = "#6B9981"
+light_foreground = "#A9FFCD"
+bright_foreground = "#F1F1F0"
+
+red = "#FF5C57"
+yellow = "#F3F99D"
+orange = "#FFB454"
+green = "#5AF78E"
+cyan = "#9AEDFE"
+blue = "#57C7FF"
+magenta = "#FF6AC1"
+brown = "#8A6A3A"
+
+bright_red = "#FF8A85"
+bright_yellow = "#FAFFC8"
+bright_green = "#8DFFB4"
+bright_cyan = "#C4F5FF"
+bright_blue = "#8FDBFF"
+bright_magenta = "#FF9BD6"
