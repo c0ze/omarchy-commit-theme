@@ -16,8 +16,9 @@ Or in the menu: **Super + Space → Install → Style → Theme**, then paste th
 
 `colors.toml` is the palette. `backgrounds/` holds three wallpapers —
 Omarchy cycles them, and `omarchy theme bg next` steps through. There is also
-an `icons.theme`, a neovim colorscheme spec, a VS Code mapping, and
-`unlock.png` for the Plymouth boot screen.
+an `icons.theme` and `unlock.png` for the Plymouth boot screen. Neovim and
+VS Code need no files here: Omarchy regenerates their configs from
+`colors.toml` when it stages an installed theme.
 
 `backdrop/` holds plates for an **animated wallpaper layer**. It does nothing
 on its own — it needs the small Quickshell plugin that ships with the full set:
