@@ -20,8 +20,13 @@ an `icons.theme` and `unlock.png` for the Plymouth boot screen. Neovim and
 VS Code need no files here: Omarchy regenerates their configs from
 `colors.toml` when it stages an installed theme.
 
-`backdrop/` holds plates for an **animated wallpaper layer**. It does nothing
-on its own — it needs the small Quickshell plugin that ships with the full set:
+`backdrop/` holds plates for an **animated wallpaper layer** — this is what
+it looks like in motion:
+
+![Commit backdrop animation](backdrop/animation.webp)
+
+The plates do nothing on their own — the animation needs the small Quickshell
+plugin that ships with the full set:
 
 > **[c0ze/omarchy-themes](https://github.com/c0ze/omarchy-themes)** — all ten
 > themes across four families, the backdrop plugin, the About and screensaver
