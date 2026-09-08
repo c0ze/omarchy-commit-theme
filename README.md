@@ -2,6 +2,8 @@
 
 Phosphor green on a cold CRT ground — the shipped palette of the game Commit!!!, read verbatim out of its own palette.gd.
 
+**[commit.gand.tr](https://commit.gand.tr)** — the game these colours were read from.
+
 ![Commit](preview.webp)
 
 ## Install
@@ -34,6 +36,7 @@ plugin that ships with the full set:
 
 ## Where the colours came from
 
-Not one of them was picked by eye. Every value is read out of the project this
-theme is named after. There is a [write-up](https://blog.arda.tr/blog/2026-08-23-ten-omarchy-themes/)
-and a [three-minute demo](https://youtu.be/2rXn40bUuC8) of all ten.
+Not one of them was picked by eye. Every value is read out of
+**[commit.gand.tr](https://commit.gand.tr)**, the project this theme is named after. There is a
+[write-up](https://blog.arda.tr/blog/2026-08-23-ten-omarchy-themes/) and a
+[three-minute demo](https://youtu.be/2rXn40bUuC8) of all ten.
